@@ -1,0 +1,21 @@
+# IDE config directories
+.idea/
+
+# Binaries and object files
+hello
+*.o
+*.hi
+
+# Executables
+dist
+dist-*
+cabal-install
+.cabal-sandbox/
+cabal.project.local
+cabal.project.local.sample
+cabal.project.freeze
+.ghc.environment.*
+
+# Temporary files
+*.swp
+*.log
